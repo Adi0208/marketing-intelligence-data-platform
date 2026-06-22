@@ -1,0 +1,6 @@
+﻿midp-env/
+__pycache__/
+*.pyc
+.env
+*.json
+.DS_Store
