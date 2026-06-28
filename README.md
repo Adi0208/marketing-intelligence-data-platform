@@ -89,6 +89,10 @@ python pipelines/transformation/create_gold_layer.py
 cd airflow
 docker compose up -d
 
+## Live Dashboard
+View the live dashboard here:
+[[https://lookerstudio.google.com/reporting/your-](https://datastudio.google.com/u/0/reporting/b8cbc816-c232-481d-9b1d-0ac51a6387b8/page/q4U2F/edit)](https://datastudio.google.com/reporting/b8cbc816-c232-481d-9b1d-0ac51a6387b8)
+
 ## Author
 
 Aditya — Data Engineer
